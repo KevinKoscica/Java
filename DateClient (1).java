@@ -1,10 +1,6 @@
-/**
- * Client program requesting current date from server.
- *
- * Figure 3.22
- *
- * @author Silberschatz, Gagne and Galvin
- * Operating System Concepts  - Eighth Edition
+/*
+Written by Kevin Koscica for CSIT 345 Operating Systems.
+This is a simple java echo server client server.
  */ 
 
 import java.net.*;
