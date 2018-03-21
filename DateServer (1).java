@@ -1,12 +1,7 @@
 
-/**
- * Time-of-day server listening to port 6013.
- *
- * Figure 3.21
- *
- * @author Silberschatz, Gagne, and Galvin. 
- * Operating System Concepts  - Ninth Edition
- * Copyright John Wiley & Sons - 2013.
+/*
+Written by Kevin Koscica
+This is a simple echo server that logs the date and anyhting that the client writes in it.
  */
  
 import java.net.*;
